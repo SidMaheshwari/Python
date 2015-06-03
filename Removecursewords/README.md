@@ -1,0 +1,1 @@
+A simple python code which checks a document to find if there are an profanity in the document!
