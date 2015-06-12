@@ -1,0 +1,1 @@
+Simple code to practise inheritance on Python
